@@ -1,0 +1,5 @@
+base_command: echo
+cls: CommandLineTool
+cwl_version: null
+inputs: []
+outputs: []

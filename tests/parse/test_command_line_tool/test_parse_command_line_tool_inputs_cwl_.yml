@@ -1,0 +1,18 @@
+base_command: null
+cls: CommandLineTool
+cwl_version: null
+inputs:
+- binding:
+    item_separator: null
+    position: 1
+    prefix: null
+    separate: true
+    shell_quote: true
+    value_from: null
+  default: null
+  doc: null
+  identifier: message
+  label: null
+  streamable: false
+  type: string
+outputs: []

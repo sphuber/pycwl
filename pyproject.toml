@@ -19,7 +19,11 @@ ignore = [
 max-line-length = 120
 
 [tool.pylint.messages_control]
-disable = []
+disable = [
+    'redefined-outer-name',
+    'too-few-public-methods',
+]
+extension-pkg-whitelist = ['pydantic']
 
 [tool.pytest.ini_options]
 filterwarnings = []

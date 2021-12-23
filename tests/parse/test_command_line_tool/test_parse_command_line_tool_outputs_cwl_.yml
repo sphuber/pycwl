@@ -1,0 +1,11 @@
+base_command: null
+cls: CommandLineTool
+cwl_version: null
+inputs: []
+outputs:
+- binding: null
+  doc: null
+  identifier: example_out
+  label: null
+  streamable: false
+  type: stdout

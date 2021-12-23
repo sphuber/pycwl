@@ -1,0 +1,3 @@
+class: CommandLineTool
+inputs: []
+outputs: []
